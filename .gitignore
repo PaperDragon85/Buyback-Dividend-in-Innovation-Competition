@@ -4,3 +4,6 @@ __pycache__/
 
 # Data
 data/interim/CAR/
+
+data/interim/all_stock_prices.csv
+
